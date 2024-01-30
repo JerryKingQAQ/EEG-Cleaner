@@ -1,8 +1,6 @@
 # EEG-Cleaner
 Perform cleaning and preprocessing on raw EEG data, including functions such as bad segment detection, bad segment rejection, removal of EOG and EMG, and bad channel repair.
 
-# EEG Data Preprocessing Tool
-
 ## Overview
 
 This tool is designed for cleaning and preprocessing raw EEG (electroencephalogram) data. It incorporates several functions to enhance the quality and usability of EEG recordings, making it suitable for further analysis or research.
